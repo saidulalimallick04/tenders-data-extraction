@@ -28,7 +28,7 @@ WEBPATH: str = "https://etender.cpwd.gov.in"
 no_of_Records: int = 20
 
 # Sleep time between requests
-sleep_time: int = 3
+sleep_time: int = 5
 
 # Dictionary to rename the columns
 csv_columns: dict = {
